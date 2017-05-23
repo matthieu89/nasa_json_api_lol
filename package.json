@@ -12,7 +12,7 @@
     "express": "^4.15.3"
      "scripts": {
     "start": "node your-script.js"
-  }
+  },
   "scripts": {
     "start": "solar_server.js"
 }
